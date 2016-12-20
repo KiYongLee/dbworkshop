@@ -1,9 +1,9 @@
-# Database Society Workshop
+# KIISE Database Society Workshop
 # (빅데이터 처리 및 분석 기술 워크샵)
 
 ▶ 일시 및 장소 : 12.21(수) 13:10~16:10 / 볼룸 III
 
-▶ 주관: 데이터베이스소사이어티
+▶ 주관: 데이터베이스 소사이어티
     
 ▶	조직
 
